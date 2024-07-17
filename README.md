@@ -27,22 +27,6 @@ I'm a passionate **Software Developer** at Anirvana Private Limited. I specializ
 
 ---
 
-## 🚀 Projects
-
-### [Handle CRM](https://github.com/Amitkumrsingh/handle-crm)
-A comprehensive CRM system built with **React, Redux, Django,** and **PostgreSQL**. Features user authentication, dynamic forms, advanced filters, and data visualization.
-
-### [Dreamshala CRM](https://github.com/Amitkumrsingh/dreamshala-crm)
-An edu-tech CRM system designed to improve customer engagement. Deployed on **AWS** with **EC2, S3, RDS,** and **Nginx**. Includes CI/CD pipeline setup.
-
-### [madschool.in](https://github.com/Amitkumrsingh/madschool)
-A static frontend website with form submission and other features. Developed using **React** and **Django**, ensuring alignment with product manager specifications.
-
-### [DriveWatch](https://github.com/Amitkumrsingh/drivewatch)
-A distracted driver detection system using **Python, OpenCV,** and **CNN**. Reduced distracted driving incidents significantly in test environments.
-
----
-
 ## 📫 Contact Me
 
 - 📧 **Email:** aksingh1109@gmail.com
