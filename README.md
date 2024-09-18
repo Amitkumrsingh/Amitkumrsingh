@@ -1,8 +1,7 @@
 # Hi there, I'm Amit Kumar Singh! 👋
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-I'm a passionate **Software Developer** at Anirvana Private Limited. I specialize in creating and deploying full stack web applications using **React**, **Django**, **PostgreSQL**, and **AWS**. I've developed CRM systems that boost sales efficiency and improve customer engagement.
+I'm a passionate **Software Developer** at Anirvana Private Limited. I specialize in creating and deploying full stack web applications using **React**, **Django**, **PostgreSQL**, and **AWS**. I've developed Edutech CRM software that boost sales efficiency and improve customer engagement.
 
 ---
 
