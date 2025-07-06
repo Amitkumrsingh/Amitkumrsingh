@@ -30,7 +30,7 @@ I'm a passionate **Software Developer** at Anirvana Private Limited. I specializ
 
 - 📧 **Email:** aksingh1109@gmail.com
 - 💼 **LinkedIn:** [Amit Kumar Singh](https://www.linkedin.com/in/amitkumrsingh/)
-- 🌐 **Portfolio:** [Amit Kumar Singh](https://amitkumar.tech/)
+- 🌐 **Portfolio:** [Amit Kumar Singh]([https://amitkumar.tech/](https://amit-tech.netlify.app/))
 
 ---
 
