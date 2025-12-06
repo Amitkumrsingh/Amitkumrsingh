@@ -1,18 +1,20 @@
 # 👋 Hi there, I'm Amit Kumar Singh!
 
-I'm a passionate **Full Stack Software Developer** currently working at **FinxBridge** (Consultant at M2P Fintech) and previously at **Anirvana Private Limited**. I specialize in crafting robust, scalable, and high-performance web applications using **React**, **Django**, **PostgreSQL**, and **AWS**. I’ve contributed to building Edutech CRMs, secure API integrations for banking systems, and impactful ML projects like distracted driver detection.
+I'm a passionate **Full Stack Software Developer** currently working at **Delhivery** and previously at **FinxBridge (Consultant @ M2P Fintech)** and **Anirvana Pvt. Ltd.**
+
+I specialize in building **scalable**, **secure**, and **high-performance** web applications using **React**, **Django**, **PostgreSQL**, and **AWS**. My experience spans fintech, logistics, edutech, and ML-based systems.
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 **B.Tech in Information Technology** from Greater Noida Institute of Technology (2023)
-- 💼 **SDE-1 at FinxBridge** | **Ex-Software Developer at Anirvana**
-- 💻 Proficient in **C++, Python, JavaScript, HTML, CSS, SQL**
-- 🚀 Tech stack: **Django, React, Node.js, Express, PostgreSQL, MongoDB**
-- ☁️ DevOps: **AWS (EC2, S3, RDS, CodeDeploy, CodePipeline)**, **Docker**, **Kubernetes**, **Nginx**
-- 🔐 Experience in **JWT**, **CI/CD**, **Secure API design**, and **dynamic payload orchestration**
-- 📊 ML/AI Projects using **OpenCV**, **CNN**, **Python**
+- 🎓 B.Tech in Information Technology (GNIOT, 2023)
+- 💼 Software Developer (Delhivery | FinxBridge | Anirvana)
+- 💻 Skilled in C++, Python, JavaScript, SQL
+- 🚀 Tech Stack: Django, React, Node.js, Express, PostgreSQL, MongoDB
+- ☁️ DevOps: AWS, Docker, Kubernetes, Nginx
+- 🔐 JWT, CI/CD, secure API design, workflow orchestration
+- 📊 OpenCV, CNN, Python for ML/AI
 
 ---
 
@@ -38,57 +40,77 @@ I'm a passionate **Full Stack Software Developer** currently working at **FinxBr
 
 ## 💼 Experience Highlights
 
-### 🔸 FinxBridge (Consultant @ M2P Fintech) — *SDE-1*  
-**Jan 2025 – Present | Hyderabad**  
-- Engineered secure API workflows for **HDFC Forex Card** using JWT and cryptographic standards  
-- Automated payload orchestration via **Connect Platform** and **ArgoCD**  
-- Enhanced UAT and production stability across multiple fintech modules
+### 🔸 Delhivery — Software Developer (HRMS Team)
+**Oct 2025 – Present | Gurugram**
 
-### 🔸 Anirvana Private Limited — *Software Developer*  
-**Jul 2023 – Dec 2024 | Hyderabad**  
-- Built an **Edutech CRM** handling leads, appointments, user management, and billing  
-- Designed APIs, integrated **React Redux** frontend with **Django REST** backend  
-- Deployed on **AWS (EC2, RDS, S3)** with **Docker**, **Kubernetes**, and full CI/CD pipelines
+- Developing and scaling a mission-critical HRMS platform serving **80,000+ employees**
+- Backend services using **Python**, **Sanic**, **SQLAlchemy**
+- Optimizing **MySQL** performance for high-volume operations
+- Ensuring **high availability**, **fault tolerance**, and **data security**
+- Working with **AWS**, **Devtron**, **Sentry**, **Git**, **GitHub**
+- Improving HR workflows and platform stability
 
-### 🔸 Internships  
-- **Anirvana**: Automated city-specific page generation and optimized SEO for production sites  
-- **Dataknobs**: Created a blog platform using **React** and **Node.js**, improved performance by 25%
+---
+
+### 🔸 FinxBridge (Consultant @ M2P Fintech) — SDE-1
+**Jan 2025 – Oct 2025 | Hyderabad**
+
+- Engineered secure API workflows for **HDFC Forex Card** using JWT & cryptography
+- Automated API payload orchestration with **Connect Platform** & **ArgoCD**
+- Improved UAT & production stability across fintech modules
+
+---
+
+### 🔸 Anirvana Private Limited — Software Developer
+**Jul 2023 – Dec 2024 | Hyderabad**
+
+- Built an **Edutech CRM** handling leads, appointments, billing, and user management
+- Integrated **React + Redux** frontend with **Django REST** backend
+- Deployment using **AWS EC2, S3, RDS**, **Docker**, **Kubernetes**, CI/CD
+
+---
+
+### 🔸 Internships
+- **Anirvana**: Automated city-specific page generation, improved SEO  
+- **Dataknobs**: Developed a blog platform using **React + Node.js**, performance improved by 25%
 
 ---
 
 ## 🧠 Noteworthy Projects
 
-### 📘 [English Learning Application](https://github.com/Amitkumrsingh/LEAG)  
-- MERN stack-based web app for interactive English learning  
-- Full CRUD operations with authentication & responsive UI
+### 📘 English Learning Application  
+https://github.com/Amitkumrsingh/LEAG
 
-### 🚗 [Distracted Driver Detection System](https://github.com/Amitkumrsingh/Distracted_Driver_Detection_Using_CNN)  
-- Real-time detection using **OpenCV + CNN**, 22k+ images  
-- Featured in **ISRO’s journal** for tech innovation
+- MERN-based interactive learning platform  
+- Authentication, CRUD, responsive UI  
+
+### 🚗 Distracted Driver Detection System  
+https://github.com/Amitkumrsingh/Distracted_Driver_Detection_Using_CNN
+
+- Real-time driver behavior detection using CNN + OpenCV  
+- Trained on 22k+ images  
+- Published in **ISRO journal**
 
 ---
 
 ## 🏅 Achievements
 
-- 🛰️ **2 Research Publications** in ISRO journals:  
-  - Distracted Driver Detection using CNN  
-  - Web Page Ranking Search Engine with SEO Suggesters  
-- 🎓 Certified by **Microsoft**, **Google Cloud**, **Udemy Web Bootcamp**
+- 🛰️ **2 Research Publications** in ISRO journals  
+- 📜 Certifications from Microsoft, Google Cloud, Udemy  
+- ⭐ Recognized for scalable backend & production-grade deployments  
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 **Email**: aksingh1109@gmail.com
-- 💼 **LinkedIn**: [Amit Kumar Singh](https://www.linkedin.com/in/amitkumrsingh/)
-- 💻 **GitHub**: [Amitkumrsingh](https://github.com/Amitkumrsingh)
-- 🌐 **Portfolio**: [Amitkumar](https://amit-tech.netlify.app/)
-- 📜 **Publications**:  
-  - [ISRO CNN Paper](https://www.isroset.org/pdf_paper_view.php?paper_id=3044&1-ISROSET-IJSRCSE-08507.pdf)  
-  - [Web Page Ranking Engine](https://ijsrem.com/download/a-webpage-ranking-search-engine-with-seo-suggesters/)
+- **Email:** aksingh1109@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/amitkumrsingh  
+- **GitHub:** https://github.com/Amitkumrsingh  
+- **Portfolio:** https://amit-tech.netlify.app  
+- **Publications:**  
+  - Distracted Driver Detection (ISRO)  
+  - SEO Search Engine Paper  
 
 ---
 
 ![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-Thanks for visiting! ⭐ Feel free to explore my repositories, open issues, or connect for collaborations.
