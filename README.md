@@ -10,7 +10,7 @@ I design and build scalable backend systems, event-driven workflows, and AI-powe
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amittech.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amittech.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amittech.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitkumar.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumrsingh/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksingh1109@gmail.com)
 
