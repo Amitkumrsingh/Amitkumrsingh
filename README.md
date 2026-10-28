@@ -10,7 +10,7 @@ I design and build scalable backend systems, event-driven workflows, and AI-powe
 
 <br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-amittech.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitkumar.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amitkumar.tech-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitkumar.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumrsingh/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksingh1109@gmail.com)
 
@@ -237,7 +237,7 @@ A next-generation CRM concept designed to automate and improve the complete stud
 
 **Focus:** React · Python · RAG · AI Agents · Analytics
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://amittech.in)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://amitkumar.tech)
 
 </td>
 <td width="50%" valign="top">
@@ -388,7 +388,7 @@ I’m open to opportunities and collaborations involving:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amittech.in)
+[![Portfolio](https://img.shields.io/badge/Explore_My_Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amitkumar.tech)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumrsingh/)
 [![Email](https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aksingh1109@gmail.com)
 
